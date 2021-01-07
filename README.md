@@ -1,1 +1,1 @@
-Qiita_sample_01
+Qiita_sample
