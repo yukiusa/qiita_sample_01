@@ -1,2 +1,2 @@
 Qiita_sample_01
-Sample
+Sample1
